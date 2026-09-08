@@ -1,4 +1,4 @@
-# Intro_to_ML
+# Intro to ML in Bioinformatics
 Here we publish materials for the *'Introduction to ML in Bioinformatics'* course at HSE University, including lectures, seminars and homeworks.
 
 
