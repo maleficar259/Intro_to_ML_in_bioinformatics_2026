@@ -7,7 +7,7 @@ Here we publish materials for the *'Introduction to ML in Bioinformatics'* cours
 | 1 | [Мышление в парадигме ML и анатомия проекта](Lectures/Lecture1_Thinking_in_the_ML_paradigm_git.pptx) | ML vs традиционное программирование; определения (Сэмюэл, Митчелл); виды задач в ML; типы обучения; ML-пайплайн; этика; структура датасета |
 | 2 | [Данные — сырьё для интеллекта](Lectures/Lecture2_Data_is_a_source_for_AI_git.pptx) | Датасет, признаки, целевая переменная; типы признаков; EDA; предобработка; пропуски; выбросы; нормализация |
 | 3 | [Регрессия: прогнозирование непрерывных величин](Lectures/Lecture3_Linear_regression_git.pptx) | Линейная регрессия; МНК; функции потерь (MSE); метрики (R²); интерпретация коэффициентов |
-| 4 | Классификация: базовые методы | Логистическая регрессия; k-NN; confusion matrix, Precision, Recall, F1; кросс-энтропия |
+| 4 | [Классификация: базовые методы](Lectures/Lecture4_Classification_basics_git.pptx) | Логистическая регрессия; k-NN; confusion matrix, Precision, Recall, F1; кросс-энтропия |
 | 5 | Оценка моделей и борьба с переобучением | Underfitting/Overfitting; Смещение-Дисперсия; train/test split; кросс-валидация; метрики; регуляризация; PR-Curve AUC; ROC-AUC; Data Leakage |
 | 6 | Решающие деревья: путь к интерпретируемости | Структура дерева; критерии (Gini, энтропия, MSE); визуализация правил; pruning; сравнение с другими моделями |
 | 7 | Ансамбли моделей: мудрость толпы | Bagging; Random Forest; Boosting (AdaBoost, Gradient Boosting, XGBoost, LightGBM, CatBoost); Blending, Stacking |
