@@ -10,7 +10,7 @@ Here we publish materials for the *'Introduction to ML in Bioinformatics'* cours
 | 4 | [Классификация: базовые методы](Lectures/Lecture4_Classification_basics_git.pptx) | Логистическая регрессия; k-NN; confusion matrix, Precision, Recall, F1; кросс-энтропия |
 | 5 | [Оценка моделей и борьба с переобучением](Lectures/Lecture5_Overfitting_and_Models_assessment_git.pptx) | Underfitting/Overfitting; Смещение-Дисперсия; train/test split; кросс-валидация; метрики; регуляризация; PR-Curve AUC; ROC-AUC; Data Leakage |
 | 6 | [Решающие деревья: путь к интерпретируемости](Lectures/Lecture6_Decision_trees_git.pptx) | Структура дерева; алгоритм обучения - критерии Gini, энтропия, MSE; работа с недо- переобучением; pruning; плюсы и минусы решающих деревьев |
-| 7 | [Ансамбли моделей: мудрость толпы](Lectures/Lecture7_Ensemble_Methods_RF_Boosting_Feature_importance_part1.pptx) | Bagging; Random Forest; Boosting (AdaBoost, Gradient Boosting, XGBoost, LightGBM, CatBoost); Blending, Stacking |
+| 7 | [Ансамбли моделей: мудрость толпы](Lectures/Lecture7_Ensemble_Methods_RF_Boosting_Feature_importance_part1.pptx) | Bootstrap; Bagging; Random Forest; Boosting (AdaBoost, Gradient Boosting) |
 | 8 | Снижение размерности: визуализация невидимого | «Проклятие размерности»; PCA; t-SNE; UMAP |
 | 9 | Введение в нейронные сети и глубокое обучение | Перцептрон; MLP; Функции активации; Обучение нейросетей; Обратное распространение ошибки (Backpropagation) |
 
